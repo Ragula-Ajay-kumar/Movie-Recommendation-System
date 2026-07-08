@@ -91,7 +91,4 @@ streamlit run src/app.py
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 > This project is licensed under the **MIT License**—a permissive license that allows for personal and commercial use while providing a disclaimer of warranty. See the [LICENSE](LICENSE) file for the full text.
 
-## Contact & Credits
-**Developer:** Daksh Jain  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-jain-6b31772b9/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsdakshjain)
+
